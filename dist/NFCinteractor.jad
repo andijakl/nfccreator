@@ -1,0 +1,8 @@
+MIDlet-1: NFCinteractor,/NfcInteractorIcon.png,com.nokia.examples.NFCinteractor
+MIDlet-Jar-Size: 15663
+MIDlet-Jar-URL: NFCinteractor.jar
+MIDlet-Name: NFCinteractor
+MIDlet-Vendor: Nokia
+MIDlet-Version: 3.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

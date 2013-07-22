@@ -29,7 +29,7 @@ Therefore, the structure of the application has to be modified to be suitable fo
 Note: This project was previously called Nfc Interactor. The new and more powerful version of the Nfc Interactor is now based on Qt; this project is however still useful as a Java ME tag reading and writing example, and has therefore been renamed to Nfc Creator to reflect its focus on writing tags, whereas the new Qt-based Nfc Interactor can also analyze tags. 
 
 More information:
-http://www.nfcinteractor.com/apps/nfccreator/
+https://projects.developer.nokia.com/nfccreator
 
 
 PREREQUISITES
@@ -124,7 +124,12 @@ RELATED DOCUMENTATION
 -------------------------------------------------------------------------------
 
 Project page
-http://www.nfcinteractor.com/apps/nfccreator/
+https://projects.developer.nokia.com/nfccreator
+
+Related example projects
+https://projects.developer.nokia.com/nfcinteractor
+https://projects.developer.nokia.com/nfccorkboards
+https://projects.developer.nokia.com/nfcchat
 
 NFC 
 http://www.developer.nokia.com/Develop/NFC/
